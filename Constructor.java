@@ -7,7 +7,7 @@ public class Constructor
 		}
 	public static void main(String []args)
 		{
-			Constructor sample=new Constructor("sharath");
+			Constructor sample=new Constructor(args[0]);
 		}
 	}
 	
