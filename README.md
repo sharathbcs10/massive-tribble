@@ -6,3 +6,7 @@ Basic Operations
 Loop Control
 Number Class
 Method Overloading and many more.
+
+To run the program,
+javac <program-name.java>
+java <program-name>
