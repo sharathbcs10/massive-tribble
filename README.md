@@ -1,4 +1,4 @@
-	Java Programs for beginners encapsulation all the basic concepts of java 
+	Java Programs for beginners encapsulating all the basic concepts of java 
 Objects and Classes
 Basic Datatypes
 Variable Types
